@@ -29,8 +29,8 @@ aluno = 'ana'
 - chovendo = False
 
 # Operações básicas com números
-- * -> multiplicação
-- ** -> potenciação (são dois asterisco '**')
+-  *  -> multiplicação (*)
+- ** -> potenciação 
 - / -> divisão
 - + -> soma (+)
 - - -> subtração (-)
