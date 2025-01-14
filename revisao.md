@@ -55,8 +55,8 @@ aluno = 'ana'
 - != (diferente de)
 - > (maior que)
 - < (menor que)
-- >= (maior ou igual)
-- <= (menor ou igual)
+- '>=' (maior ou igual)
+- '<=' (menor ou igual)
 
 
 # Estruturas de condicionais (if, elif, else) 
