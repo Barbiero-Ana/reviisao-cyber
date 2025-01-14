@@ -28,8 +28,8 @@ aluno = 'ana'
 - time_venceu = True
 - chovendo = False
 
-# Operações básicas com números
--  *  -> multiplicação (*)
+# Operações básicas com números - digitar sem as aspas - estão assim para leitura normal do arquivo .md
+- '*'  -> multiplicação (*)
 - ** -> potenciação 
 - / -> divisão
 - + -> soma (+)
@@ -50,10 +50,10 @@ aluno = 'ana'
 
 # Verificar no portal as formas de manipulação de string - Estudar e revisar*
 
-# Comparadores lógicos
+# Comparadores lógicos - digitar sem as aspas - estão assim para leitura normal do arquivo .md
 - == (igual a)
 - != (diferente de)
-- > (maior que)
+- '> '(maior que)
 - < (menor que)
 - '>=' (maior ou igual)
 - '<=' (menor ou igual)
