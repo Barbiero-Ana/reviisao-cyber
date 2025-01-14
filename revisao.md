@@ -29,7 +29,7 @@ aluno = 'ana'
 - chovendo = False
 
 # Operações básicas com números - digitar sem as aspas - estão assim para leitura normal do arquivo .md
-- '*'  -> multiplicação (*)
+- *  -> multiplicação (*)
 - ** -> potenciação 
 - / -> divisão
 - + -> soma (+)
