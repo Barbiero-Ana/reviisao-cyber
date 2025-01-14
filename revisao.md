@@ -28,7 +28,7 @@ aluno = 'ana'
 - time_venceu = True
 - chovendo = False
 
-# Operações básicas com números - digitar sem as aspas - estão assim para leitura normal do arquivo .md
+# Operações básicas com números - digitar sem os () - estão assim para leitura normal do arquivo .md
 - *  -> multiplicação (*)
 - ** -> potenciação 
 - / -> divisão
