@@ -30,10 +30,10 @@ aluno = 'ana'
 
 # Operações básicas com números
 - * -> multiplicação
-- ** -> potenciação
+- ** -> potenciação (são dois asterisco '**')
 - / -> divisão
-- + -> soma
-- - -> subtração
+- + -> soma (+)
+- - -> subtração (-)
 - // -> divisão inteira
 - % -> resto da divisão (módulo)
 * Para mais operações, utilizar a biblioteca *Math* - no começo do código adicionar *import math* *
