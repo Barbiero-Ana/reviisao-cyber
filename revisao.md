@@ -28,12 +28,12 @@ aluno = 'ana'
 - time_venceu = True
 - chovendo = False
 
-# Operações básicas com números - digitar sem os () - estão assim para leitura normal do arquivo .md
-- *  -> multiplicação (*)
-- ** -> potenciação 
+# Operações básicas com números
+- * -> multiplicação
+- ** -> potenciação
 - / -> divisão
-- + -> soma (+)
-- - -> subtração (-)
+- + -> soma
+- - -> subtração
 - // -> divisão inteira
 - % -> resto da divisão (módulo)
 * Para mais operações, utilizar a biblioteca *Math* - no começo do código adicionar *import math* *
@@ -50,13 +50,13 @@ aluno = 'ana'
 
 # Verificar no portal as formas de manipulação de string - Estudar e revisar*
 
-# Comparadores lógicos - digitar sem as aspas - estão assim para leitura normal do arquivo .md
+# Comparadores lógicos
 - == (igual a)
 - != (diferente de)
-- '> '(maior que)
+- > (maior que)
 - < (menor que)
-- '>=' (maior ou igual)
-- '<=' (menor ou igual)
+- >= (maior ou igual)
+- <= (menor ou igual)
 
 
 # Estruturas de condicionais (if, elif, else) 
@@ -141,6 +141,7 @@ while n >= 10:
 - ex: math, datetime, re, random, etc.
 
 # Listas []
+- Matriz - Uma lista
 - O indice de uma lista começa sempre em 0
 - alunos = ['joao','ana','marcelo','regina','gustavo']
 - print(alunos)
@@ -148,7 +149,7 @@ while n >= 10:
 - para um print enumerado
 * for index, item in enumerate(alunos):
     print(f'{index} : {items}')
-
+- Como acessar o útlimo elemento de uma matriz: - print(matriz[0[-1]]) -> O -1 acessa o último item
 
 # Fatiamento de listas
 - print(alunos[1:3])
@@ -182,4 +183,14 @@ while n >= 10:
     print(f'{chave}: {valor}')
 
 # Dados aninhados
-- 
+- ''Uma lista dentro de uma lista''
+- Uma concatenação de listas - Mantendo-a mais organizada e de melhor vizualização
+- Imagine um menu de estoque, no qual precisa de: produto(podendo ser vários), quantidade em estoque, tipo, etc.
+- ex: estoque {
+    'Iphone': {'quantidade': 90, 'preco': 900, 'tipo': 13}
+    *e por assim vai*
+}
+- Um perfil de um usuário que requer vários dados para seu cadastro, por exemplo serve como exemplo de dados aninhados (revise o código de criação de perfil de uma rede social presente no github - um dos desafios passados em aula)
+
+
+**Lembrete ana - estudar e revisar os códigos antigos**
